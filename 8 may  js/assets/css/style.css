@@ -1,0 +1,17 @@
+/* canvas {
+    border:1px solid #d3d3d3;
+    background-color: #f1f1f1;
+} */
+.buttons{
+
+display: flex;
+justify-content: center;
+    gap: 20px;
+    padding-left: 600px;
+    margin-top: 500px;
+
+}
+canvas {
+    border:1px solid #d3d3d3;
+    background-color: #f1f1f1;
+}
